@@ -1,0 +1,60 @@
+body {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.shape {
+    position: absolute;
+    mix-blend-mode: multiply;
+    top: 30%;
+    left: 30%;
+    
+}
+
+.bird1 {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+}
+
+.cloud1 {
+    mix-blend-mode: multiply;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top:65%;
+    left: 10%;
+}
+.cloud2 {
+    mix-blend-mode: multiply;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top:10%;
+    left: 70%;
+}
+
+
+.bird2 {
+    mix-blend-mode: multiply;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top:20%;
+    left: 40%;
+}
+.bird3 {
+    mix-blend-mode: multiply;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 50%;
+}
+.text {
+    position: absolute;
+    top: 80%;
+    left: 20%;
+}
